@@ -1,6 +1,6 @@
-#include <iostream>
+#include <stdio.h>
 int main()
 {
-std::cout << "Bienvenue le monde !" << std::endl;
+printf( "Bienvenue le monde !" );
 return 0;
 }
